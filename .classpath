@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/poi-bin-5.2.0-20220106"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/commons-io-2.11.0-bin"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/poi-3.9.jar/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/poi-ooxml-3.9.jar/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/dom4j-1.6.jar/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/poi-ooxml-schemas-3.9.jar/poi-ooxml-schemas-3.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
